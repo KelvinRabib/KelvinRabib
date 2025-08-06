@@ -1,18 +1,34 @@
-# 👋 Olá, eu sou [Kelvin]!
+# 👋 Olá, eu sou o Kelvin Rabib!
 
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-
-## 📫 Onde me encontrar
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1031802)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_kelvinrabib@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvinRabib)
+Estou cursando o 4º período de Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia e programação. A busca por conhecimento e a aplicação prática do que aprendo são minhas maiores motivações.
 
 ---
 
-## 🧩 Curiosidade
+### 💻 Minhas Habilidades e Tecnologias
 
-> "A criatividade é o combustível da inovação."
+Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizando:
 
-![Mario](https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif)
+| Área | Tecnologias |
+| :--- | :--- |
+| **Front-End** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Back-End** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Banco de Dados** | ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-000000?style=for-the-badge) |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvinRabib&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinRabib&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelvinrabib/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinrabib/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinrabib@gmail.com)
