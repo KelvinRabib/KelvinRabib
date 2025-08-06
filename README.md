@@ -37,4 +37,4 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 
 ### 🧩 Easter Egg
 
-<img src="(https://giphy.com/gifs/legend-of-zelda-nintendo-ElSNi8FdSB7RS)" alt="Easter Egg de Zelda - Link Correndo" />
+<img src="([https://giphy.com/gifs/legend-of-zelda-nintendo-ElSNi8FdSB7RS](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQ4eG10OWhsZnczd28ydWx6Z3Vyc2FsMnlhOTl1bHVzNnp5MjNtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnu831s1um2X9ug/giphy.gif))" alt="Easter Egg de Zelda - Link Correndo" />
