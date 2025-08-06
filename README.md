@@ -32,3 +32,9 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kelvinrabib/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvinrabib/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvinrabib@gmail.com)
+
+
+
+### 🧩 Easter Egg
+
+<img src="https://exemplo.com/link-correndo.gif" alt="Easter Egg de Zelda - Link Correndo" />
