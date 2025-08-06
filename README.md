@@ -39,4 +39,4 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 
 <img src="### 🧩 Easter Egg
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTMyOTcxZDY4NTdkYmJmNTFjNzI1NjA2MDQ0MzIyYjFkZGY1MDdhZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/wJ1q54qR4y0fQO5V05/giphy.gif"](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhzOWxkc3FuenR6Yms5NXc0aWRzMm9neGhidHp5ZHdpMzVnejZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lXkweRxy1FWJ2M/giphy.gif) alt="Easter Egg - Link acendendo uma fogueira" />" alt="Easter Egg de Zelda - Link Correndo" />
+<img srchttps://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhzOWxkc3FuenR6Yms5NXc0aWRzMm9neGhidHp5ZHdpMzVnejZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lXkweRxy1FWJ2M/giphy.gif) alt="Easter Egg - Link acendendo uma fogueira" />" alt="Easter Egg de Zelda - Link Correndo" />
