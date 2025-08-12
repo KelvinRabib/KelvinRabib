@@ -35,7 +35,7 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 
 
 
-### 🧩 Easter Egg
+
 
 <img src="### 🧩 Easter Egg#
 
