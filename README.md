@@ -39,5 +39,5 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 
 🧩 Easter Egg
 
-<img srchttps:/[/media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhzOWxkc3FuenR6Yms5NXc0aWRzMm9neGhidHp5ZHdpMzVnejZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lXkweRxy1FWJ2M/giphy.gif) alt="Easter Egg - Link acendendo uma fogueira](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhzOWxkc3FuenR6Yms5NXc0aWRzMm9neGhidHp5ZHdpMzVnejZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lXkweRxy1FWJ2M/giphy.gif)" />" alt="Easter Egg de Zelda - Link Correndo" /> 
+<img srchttps:/[/media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhzOWxkc3FuenR6Yms5NXc0aWRzMm9neGhidHp5ZHdpMzVnejZudSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lXkweRxy1FWJ2M/giphy.gif) alt="Easter Egg - Link acendendo uma fogueira](![Easter Egg](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjExN2FzOWhzOWk3FuenR6Yms5NX0c0WRzMWN0aWRzNmhpZHpHP5ZHdPMzVnejZudSZlCD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9G/l4lXkwErxy1FWJ2M/giphy.gif)" />" alt="Easter Egg de Zelda - Link Correndo" /> 
 
