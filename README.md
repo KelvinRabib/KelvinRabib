@@ -21,8 +21,8 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.api/api?username=KelvinRabib&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.api/api/top-langs/?username=KelvinRabib&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvinRabib&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinRabib&layout=compact&theme=radical"/>
 </p>
 
 ---
@@ -38,5 +38,5 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 ### 🧩 Easter Egg
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjExN2FzOWhzOWk3FuenR6Yms5NX0c0WRzMWN0aWRzNmhpZHpHP5ZHdPMzVnejZudSZlCD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9G/l4lXkwErxy1FWJ2M/giphy.gif" alt="Easter Egg de Zelda - Link Correndo" width="120px"/>
+  <img src="https://media.giphy.com/media/l41lXkweRxy1FWJ2M/giphy.gif" alt="Easter Egg de Zelda - Link Correndo" width="120px"/>
 </p>
