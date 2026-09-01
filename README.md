@@ -21,8 +21,8 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KelvinRabib&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinRabib&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinRabib&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinRabib&layout=compact&theme=radical" width="45%"/>
 </p>
 
 ---
@@ -38,5 +38,5 @@ Aqui estão algumas das tecnologias e linguagens que estou estudando e utilizand
 ### 🧩 Easter Egg
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lXkweRxy1FWJ2M/giphy.gif" alt="Easter Egg de Zelda - Link Correndo" width="120px"/>
+  <img src="https://media.giphy.com/media/l41lXkweRxy1FWJ2M/giphy.gif" alt="Easter Egg de Zelda - Link Correndo" width="220px"/>
 </p>
